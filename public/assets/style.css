@@ -1,0 +1,19 @@
+input {
+    width: 600px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: block;
+}
+table {
+    border-collapse: collapse;
+    width: 600px;
+}
+textarea {
+    width: 600px;
+    height: 200px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    display: block;
+}
