@@ -1,4 +1,4 @@
-# SAE Lectures | WebDev | PHP.1 "Chat"
+# SAE Lectures | WebDev | PHP.1 "CRUD Application"
 This repository provides a very basic CRUD (Create Read Update Delete) application example with minimized dependencies 
 running inside a dockerized PHP environment and providing a
 MYSQL database
